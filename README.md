@@ -18,8 +18,8 @@ Anew-Py is a lightweight Python tool inspired by [tomnomnom's anew](https://gith
 
 2. Make the script executable (optional):
    ```bash
-   chmod +x enhanced_anew.py
-   ```
+   chmod +x Anew-Py.py
+      ```
 
 3. Ensure Python 3 is installed on your system:
    ```bash
